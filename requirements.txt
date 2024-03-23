@@ -1,0 +1,8 @@
+diffrax
+equinox
+jax
+optax
+scipy
+cvxpy
+bagpy
+jaxopt
