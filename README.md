@@ -2,6 +2,10 @@
 
 **TL;DR**: We learn the motions of wiping and stirring tasks from 3 demonstrations, and generate safe, reactive plans online at 1 KHz that converge to a target trajectory. Project webpage: https://sites.google.com/view/lfd-neural-ode/home
 
+## Paper
+<a id="1">[1]</a> 
+Farhad Nawaz, Tianyu Li, Nikolai Matni, Nadia Figueroa, Learning Complex Motion Plans using Neural ODEs with Safety and Stability Guarantees.  	arXiv:2308.00186 [cs.RO] (2024) (available at https://arxiv.org/abs/2308.00186). 
+
 This repo contains the code base for the above project, which is accepted to appear in [ICRA 2024](https://2024.ieee-icra.org/).
 
 <table>
